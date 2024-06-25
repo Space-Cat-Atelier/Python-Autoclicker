@@ -1,2 +1,2 @@
 # Python-Autoclicker
-An Autoclicker made with Python and the Tkinter library
+This is an autoclicker made with Python and the tkinter library.
