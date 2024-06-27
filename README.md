@@ -1,4 +1,4 @@
-# Python-Autoclicker
+# Python Autoclicker
 This is an autoclicker made with Python using the tkinter, keyboard, pyautogui, time, and threading modules.
 
 **Note: THIS AUTOCLICKER IS PRETTY BAD COMPARED TO OTHER AUTOCLICKERS. IF YOU WANT TO USE AN ACTUALLY GOOD AUTOCLICKER, USE SOMETHING ELSE.**
